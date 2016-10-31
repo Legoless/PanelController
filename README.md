@@ -1,6 +1,6 @@
 # PanelController
 
-4 direction Panels written in Swift similar to Snapchat
+4 direction View Controller panels written in Swift similar to Snapchat (up-down-left-right)
 
 # License
 
